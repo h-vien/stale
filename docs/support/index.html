@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="vi" data-locale="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Support and troubleshooting for the Stale iOS app.">
+  <meta name="theme-color" content="#F6F1E6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)">
+  <title>Stale · Support</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body data-title-vi="Stale · Hỗ trợ" data-title-en="Stale · Support">
+  <header class="site-header">
+    <a class="wordmark" href="../">stale</a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href="../privacy/">Privacy</a>
+      <a href="./" aria-current="page">Support</a>
+      <div class="language-switcher" aria-label="Language">
+        <button type="button" data-locale-button="vi" aria-pressed="true">VI</button>
+        <button type="button" data-locale-button="en" aria-pressed="false">EN</button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="page-shell document-layout">
+    <aside class="document-nav" data-language="vi">
+      <p>Hỗ trợ</p>
+      <ol><li><a href="#vi-help">Bắt đầu</a></li><li><a href="#vi-faq">Câu hỏi thường gặp</a></li><li><a href="#vi-report">Báo lỗi</a></li></ol>
+    </aside>
+    <aside class="document-nav" data-language="en">
+      <p>Support</p>
+      <ol><li><a href="#en-help">Start here</a></li><li><a href="#en-faq">Common questions</a></li><li><a href="#en-report">Report an issue</a></li></ol>
+    </aside>
+
+    <article class="document" data-language="vi">
+      <div class="hero-mark" aria-hidden="true"></div>
+      <h1 id="vi-help">Có gì chưa ổn?</h1>
+      <p class="lede">Thử các bước ngắn dưới đây trước. Nếu vấn đề vẫn còn, gửi báo lỗi kèm phiên bản iOS, dòng máy và các bước để tái hiện.</p>
+      <div class="support-actions">
+        <a class="button-primary" href="https://github.com/h-vien/stale/issues/new" rel="noreferrer">Báo lỗi trên GitHub</a>
+        <a class="button-secondary" href="../privacy/">Xem quyền riêng tư</a>
+      </div>
+
+      <h2 id="vi-faq">Câu hỏi thường gặp</h2>
+      <details><summary>Tại sao tôi không nhận được thông báo?</summary><p>Mở Cài đặt iOS → Thông báo → Stale và bật Cho phép thông báo. Kiểm tra Giờ yên tĩnh trong Stale; reminder rơi vào khoảng này sẽ được dời đến 7:00. Chế độ Focus của iOS cũng có thể trì hoãn banner.</p></details>
+      <details><summary>Tại sao reminder 2 phút chưa xuất hiện?</summary><p>Đảm bảo link vẫn ở trạng thái chưa đọc và notification permission đang bật. Test reminder có thể mất thêm ít giây để iOS phân phối. Nếu app đang mở, banner vẫn phải xuất hiện ở phía trên.</p></details>
+      <details><summary>Làm sao khôi phục Lifetime?</summary><p>Vào Cài đặt trong Stale và chọn Khôi phục giao dịch. Hãy dùng cùng Apple Account đã mua trước đó. Lifetime là giao dịch một lần, không phải subscription.</p></details>
+      <details><summary>Dữ liệu của tôi có đồng bộ không?</summary><p>Phiên bản hiện tại lưu danh sách đọc trên thiết bị và chia sẻ với Share Extension qua App Group. Đồng bộ iCloud chưa phải là tính năng của bản hiện tại.</p></details>
+      <details><summary>Tại sao Share Extension không lưu link?</summary><p>Mở app Stale chính ít nhất một lần, đăng nhập, rồi thử lại từ Share Sheet. Nếu đã đạt giới hạn Free, mở Stale để quản lý link hoặc nâng cấp Lifetime.</p></details>
+      <details><summary>Làm sao xóa dữ liệu?</summary><p>Xóa từng link trong Stale; đăng xuất để xóa mã đăng nhập khỏi Keychain trên thiết bị. Xóa ứng dụng sẽ xóa dữ liệu cục bộ của app. Giao dịch App Store vẫn thuộc Apple Account của bạn.</p></details>
+
+      <h2 id="vi-report">Báo lỗi hiệu quả</h2>
+      <p>Trong issue, hãy ghi phiên bản Stale, phiên bản iOS, dòng máy, kết quả mong đợi và điều thực tế xảy ra. Screenshot hoặc screen recording rất hữu ích nếu không chứa dữ liệu riêng tư.</p>
+      <p class="note">GitHub Issues là công khai. Không đăng Apple ID, mã Sign in with Apple, biên lai, URL riêng tư hoặc dữ liệu nhạy cảm.</p>
+    </article>
+
+    <article class="document" data-language="en">
+      <div class="hero-mark" aria-hidden="true"></div>
+      <h1 id="en-help">Something feel off?</h1>
+      <p class="lede">Try the short checks below first. If the issue remains, send a report with your iOS version, device model, and steps to reproduce it.</p>
+      <div class="support-actions">
+        <a class="button-primary" href="https://github.com/h-vien/stale/issues/new" rel="noreferrer">Report on GitHub</a>
+        <a class="button-secondary" href="../privacy/">Read the privacy policy</a>
+      </div>
+
+      <h2 id="en-faq">Common questions</h2>
+      <details><summary>Why am I not receiving notifications?</summary><p>Open iOS Settings → Notifications → Stale and enable Allow Notifications. Check Quiet Hours in Stale; a reminder within that window moves to 7:00. An iOS Focus mode may also delay its banner.</p></details>
+      <details><summary>Why has the two-minute reminder not appeared?</summary><p>Make sure the link is still unread and notification permission is enabled. A test reminder may take a few extra seconds for iOS to deliver. If the app is open, its banner should still appear at the top.</p></details>
+      <details><summary>How do I restore Lifetime?</summary><p>Open Settings in Stale and choose Restore Purchases. Use the same Apple Account that made the original purchase. Lifetime is a one-time purchase, not a subscription.</p></details>
+      <details><summary>Does my reading list sync?</summary><p>The current version stores your reading list on the device and shares it with the Share Extension through an App Group. iCloud sync is not part of the current release.</p></details>
+      <details><summary>Why will the Share Extension not save a link?</summary><p>Open the main Stale app at least once, sign in, and try again from the Share Sheet. If you reached the Free limit, open Stale to manage links or unlock Lifetime.</p></details>
+      <details><summary>How do I remove my data?</summary><p>Delete individual links in Stale; sign out to remove the sign-in identifier from the device Keychain. Deleting the app removes its local data. App Store transactions remain attached to your Apple Account.</p></details>
+
+      <h2 id="en-report">A useful bug report</h2>
+      <p>Include the Stale version, iOS version, device model, expected result, and what actually happened. A screenshot or screen recording helps when it contains no private information.</p>
+      <p class="note">GitHub Issues are public. Never post an Apple ID, Sign in with Apple identifier, receipt, private URL, or other sensitive information.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer"><span>© 2026 Stale</span><span><a href="../privacy/">Privacy</a></span></footer>
+  <script src="../site.js"></script>
+</body>
+</html>
