@@ -1,53 +1,53 @@
 {
   "schemaVersion": 1,
   "locale": "en",
-  "readingEstimate": "About {minutes} minutes. Very doable.",
+  "readingEstimate": "About {minutes} minutes. Lowkey doable, no cap.",
   "tones": {
     "chill": [
-      "Your saved read is still here, keeping your spot ☕",
-      "A tiny reading break? This link brought the vibes.",
-      "No rush. Just a friendly tap from your reading list.",
-      "This one looked worth saving. Still curious?",
-      "Your future self left you something to read.",
-      "One quiet article break, whenever you're ready.",
-      "This link has been patiently holding your seat.",
-      "A good read is waiting. Zero pressure. Almost zero."
+      "Your saved read is still here, holding your spot ☕ No rush, bestie.",
+      "Tiny reading break? This one's giving cozy vibes.",
+      "Lowkey the perfect time to read that thing you saved.",
+      "Past you saved this for a reason. Main character energy, go read it.",
+      "No pressure, just a soft launch of your reading list.",
+      "Touch grass, then touch this article. Order is up to you.",
+      "This link has been chilling in your saves, rent-free. Say hi?",
+      "A good read is waiting. Zero pressure. Okay, like 3% pressure."
     ],
     "pushy": [
-      "Plot twist: saved links do not read themselves.",
-      "You saved it with confidence. Time to follow through.",
-      "This tab has been emotionally available all day.",
-      "Your self-assigned reading deadline has entered the chat.",
-      "Inbox storage is not the same thing as learning. Open it.",
-      "Quick reality check: still reading this, or just collecting it?",
+      "Plot twist: saved links don't read themselves.",
+      "You saved it with main character confidence. Now follow through.",
+      "This article has been emotionally available all day. Be the same.",
+      "Your self-imposed reading deadline just joined the group chat.",
+      "Saving is not learning. Open the link, it's not that deep.",
+      "Quick vibe check: actually reading this, or just collecting links?",
       "The link is ready. The only missing ingredient is you.",
-      "Let's turn ‘read later’ into ‘read now-ish.’"
+      "Let's upgrade 'read later' to 'read now-ish.' Baby steps."
     ],
     "sharp": [
-      "What do you call someone who saves links but never reads them? A collector. Go read.",
-      "You thought saving it meant knowing it? You and knowledge are not that close.",
-      "Data mismatch: you said you would read it, but your history says otherwise.",
-      "\"{title}\" has been there for {days} days. It has waited longer than your last unanswered text.",
-      "Motivation decaying? Only {count} unread links. Keep going.",
-      "Not everyone can save this much and read this little. Impressive. 🏆"
+      "What do you call saving links and never reading them? Collecting. Go read.",
+      "Saving it ≠ knowing it. It's giving fake it till you Google it.",
+      "\"{title}\" has been sitting there for {days} days. It's been left on read longer than your situationship.",
+      "{count} unread links. That's not a reading list, that's a skill issue.",
+      "Motivation loading... 3%. Only {count} links left. You got this, main character.",
+      "Saving this much and reading this little? That's -500 aura. 🏆"
     ],
     "fierce": [
-      "Read the link. Nobody is watching you save links for decoration.",
-      "{count} unread links. Are you building a library or a link graveyard?",
-      "If it flops, put the link's name on it. Better yet, read it first.",
-      "\"{title}\" has sat there for {days} days. It is about to claim residency.",
-      "Two hours of scrolling is fine, but five minutes of reading is impossible? Hello?",
-      "Absolute cinema: you save a link, forget it, and the link cries quietly.",
-      "Stop saying tomorrow. Tomorrow will look exactly like today."
+      "Read the link. Nobody is impressed by your saves folder.",
+      "{count} unread links. Is this a library or a link graveyard?",
+      "\"{title}\" has lived in your saves for {days} days. At this point it's paying rent. Read it.",
+      "Two hours of doomscrolling: fine. Five minutes of reading: 'too much'? Be so for real.",
+      "Absolute cinema: you save a link, forget it, and the link cries quietly in the corner.",
+      "Stop saying 'tomorrow.' Tomorrow is just today with worse excuses.",
+      "Your brain called. It's tired of brain rot and wants one actual article."
     ],
     "savage": [
       "Final reminder: read \"{title}\" or this app gets loud at bedtime. 😈",
-      "In my next life I will sweep temple leaves, because you owe {count} unread links in this one.",
-      "You created your own ordeal: {count} unread links. Ordeal number {count}, naturally.",
-      "This link has waited {days} days. Are you really going with 'I did not even touch it'?",
-      "You have 24 hours: read it or delete it. This link refuses to be the third wheel in your library.",
-      "Everyone, please proceed to... the reading page. Quickly. 🔥",
-      "If you will not read it, delete it and lighten the debt. Life is long; links are plentiful."
+      "{count} unread links. You're not behind, you're cooked. Open one. Now.",
+      "Villain arc unlocked: {count} unread links and zero self-control. Redemption arc starts with one click.",
+      "This link waited {days} days. You really out here ghosting your own reading list?",
+      "24 hours: read it or delete it. This link refuses to be your situationship.",
+      "Side quest complete: collecting {count} links. Main quest: actually reading one. 🔥",
+      "If you're not reading it, delete it. Your saves folder isn't a museum."
     ]
   }
 }

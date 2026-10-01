@@ -1,53 +1,53 @@
 {
   "schemaVersion": 1,
   "locale": "vi",
-  "readingEstimate": "Tầm {minutes} phút thôi, kèo này làm được.",
+  "readingEstimate": "Tầm {minutes} phút thôi, ngắn hơn cuộc họp 'chốt nhanh' của team mình nhiều.",
   "tones": {
     "chill": [
-      "Ê, bài bạn lưu vẫn đang giữ chỗ nè ☕",
-      "Một chiếc link xinh đang chờ được mở.",
-      "Không vội đâu. Nhắc nhẹ một cái cho khỏi trôi.",
-      "Hôm trước thấy hay nên lưu, giờ còn tò mò không?",
-      "Bạn của tương lai gửi bạn một bài để đọc nè.",
-      "Nghỉ lướt một nhịp, đọc một chút cũng chill.",
-      "Link này ngoan lắm, vẫn ngồi chờ bạn từ nãy giờ.",
-      "Một bài hay đang đợi. Không áp lực. Gần như thế."
+      "Ê bồ ơi, bài bạn lưu vẫn đang giữ chỗ nè",
+      "Có 1 chiếc link xinh đang đợi bạn mở, nhẹ nhàng thôi hà.",
+      "Không gấp đâu, nhắc nhẹ cho bài khỏi trôi mất tiêu.",
+      "Hôm trước thấy hay nên lưu, giờ còn thấy tò mò hông?",
+      "Bạn của tương lai gửi bạn 1 bài đọc nè, vibe cực chill.",
+      "Lướt mệt rồi thì đọc 1 bài cho não healing xíu nha.",
+      "Link này ngoan lắm luôn, ngồi chờ bạn nãy giờ không than nửa lời.",
+      "Có bài hay đang đợi. Không áp lực. Gần như vậy á."
     ],
     "pushy": [
-      "Plot twist: link đã lưu không tự đọc được đâu.",
-      "Lúc lưu dứt khoát lắm. Giờ đọc cũng dứt khoát nhé?",
-      "Bài này bị bạn cho ngồi ghế chờ hơi lâu rồi đó.",
-      "Deadline tự đặt đã chính thức vào phòng chat.",
-      "Kho link không tự biến thành kiến thức. Mở bài thôi.",
-      "Check nhẹ: định đọc thật hay đang sưu tầm link vậy?",
-      "Link sẵn sàng rồi. Còn thiếu mỗi bạn thôi.",
-      "Biến ‘đọc sau’ thành ‘đọc ngay ngay’ nào."
+      "Plot twist: link lưu rồi không tự đọc được đâu bồ ơi.",
+      "Lúc lưu thì dứt khoát lắm, giờ đọc cũng dứt khoát đi nè?",
+      "Bài này ngồi ghế chờ lâu muốn hóa đá rồi á.",
+      "Deadline tự đặt đã chính thức vào phòng chat, kèo này căng nha.",
+      "Kho link không tự biến thành kiến thức đâu, mở bài đi nào.",
+      "Check var nhẹ: định đọc thật hay đang sưu tầm link cho vui vậy?",
+      "Link sẵn sàng rồi, còn thiếu mỗi bạn thôi á.",
+      "Đổi 'đọc sau' thành 'đọc liền' cái rột, xong gọn lẹ."
     ],
     "sharp": [
-      "Dân lưu link mà không đọc thì gọi là gì? Dân sưu tầm. Đọc đi bạn ơi.",
-      "Bạn tưởng lưu rồi là biết rồi hả? Thân chưa mà giỡn kiểu đó với kiến thức.",
-      "Dữ liệu không khớp với server gốc: bạn nói sẽ đọc, nhưng lịch sử cho thấy khác.",
-      "\"{title}\" nằm đó {days} ngày rồi. Nó chờ bạn còn lâu hơn người ấy chờ bạn trả lời tin nhắn.",
-      "Động lực thoái hóa à? Link đọc có {count} cái, cố thêm chút nữa thôi.",
-      "Hên lắm mới có người lưu link nhiều mà đọc ít được như bạn. 🏆"
+      "Dạ em xin phép follow up: \"{title}\" vẫn đang ở trạng thái 'sẽ xem' từ {days} ngày trước ạ.",
+      "Per my last notification, bạn còn {count} link pending. Nhắc lịch sự thôi, chưa tính là deadline.",
+      "Đã ghi nhận ý định 'đọc sau'. Dự kiến hoàn thành: chưa rõ. Trạng thái hiện tại: vẫn là ý định.",
+      "\"{title}\" lưu {days} ngày chưa mở. Nếu đây là task thì đã trễ sprint rồi nha.",
+      "Họp bàn kỹ lắm rồi, kết luận: {count} link vẫn chưa ai đọc. Action item: bạn.",
+      "Backlog đọc của bạn có {count} đầu việc. Không ai giao, tự tạo, tự bỏ bê 🏆"
     ],
     "fierce": [
-      "Đọc link đi. Không ai ở đây xem bạn lưu link để trang trí đâu.",
-      "{count} link chưa đọc. Bạn đang xây thư viện hay xây nghĩa địa link vậy?",
-      "Flop quá thì ghi tên link vào. Mà thôi, đọc đi rồi tính.",
-      "\"{title}\" đã nằm {days} ngày. Sắp được cấp sổ đỏ rồi đó.",
-      "Bạn lướt TikTok 2 tiếng được, đọc 1 bài 5 phút thì không được? Ủa alo, alo?",
-      "Tuyệt đối điện ảnh luôn: bạn lưu link, lưu xong ngủ quên, link khóc thầm.",
-      "Thôi đừng \"để mai\" nữa, mai cũng chẳng khác gì hôm nay đâu."
+      "Nhắc lần thứ n: \"{title}\" cần được xử lý. Nếu không, em buộc phải CC thêm tinh thần trách nhiệm của bạn.",
+      "{count} link tồn đọng. Cuối năm xét KPI đọc sách thì bạn tính sao?",
+      "Bạn bận lắm, em hiểu. Nhưng 5 phút cho \"{title}\" thì chắc xin phép sếp được á.",
+      "Link nằm {days} ngày chưa động tới. Chuyển trạng thái từ 'sẽ đọc' sang 'đã quên' có cần phê duyệt không ạ?",
+      "Lướt TikTok giờ nghỉ trưa thì chăm, đọc 1 bài thì 'để tuần sau'. Ưu tiên công việc vậy sao?",
+      "Đây là thông báo thứ ba về cùng một link. Xin cho em biết nên hiểu là 'sẽ đọc' hay 'không đọc'?",
+      "Tăng ca cho người khác được, đọc 1 bài cho mình lại không? Em xin ghi nhận để đưa vào đánh giá cuối năm."
     ],
     "savage": [
-      "Lần cuối nhắc: đọc \"{title}\" đi, không là app này sẽ phát ra tiếng ngay giờ ngủ. 😈",
-      "Trùng sinh tôi vào chùa quét lá đa, vì kiếp này bạn nợ {count} link chưa đọc.",
-      "Bạn vừa tự tạo ra một kiếp nạn: {count} link chưa đọc, đúng chuẩn kiếp nạn thứ {count}.",
-      "Link chờ bạn {days} ngày, bạn có nhận ra mình đang là người \"đã làm gì đâu, đã chạm vào đâu\" không?",
-      "Cho bạn 24h: đọc hoặc xóa. Link không chấp nhận vai \"người thứ ba\" trong thư viện của bạn.",
-      "Mời đoàn mình di chuyển lên... trang đọc link. Giùm em. Gấp. 🔥",
-      "Không đọc thì xóa luôn cho nhẹ nợ. Đời còn dài, link còn nhiều."
+      "Thông báo chính thức: nếu \"{title}\" chưa được đọc trong hôm nay, app sẽ gửi báo cáo tình hình cho... chính bạn. 😈",
+      "Biên bản họp: {count} link chưa đọc, {days} ngày trễ hạn, 0 lý do thuyết phục. Đề nghị giải trình.",
+      "Chúc mừng bạn đạt KPI sưu tầm link! Tiếc là KPI đọc link vẫn đang 0/{count}. 💀",
+      "Link chờ {days} ngày. Bạn đã bỏ lỡ cuộc họp với kiến thức, giờ muốn xin lỗi hay xin gia hạn?",
+      "Cho bạn đến 17:30 hôm nay: đọc hoặc xóa. Sau đó nó thành việc của 'ngày mai', mà bạn biết ngày mai ở đâu rồi đó.",
+      "Em xin phép escalate lên cấp cao nhất: chính bạn của {days} ngày trước, người đã hứa sẽ đọc.",
+      "Không đọc thì xóa cho gọn backlog. Công ty còn tối ưu nhân sự được, bạn tối ưu link được mà."
     ]
   }
 }
