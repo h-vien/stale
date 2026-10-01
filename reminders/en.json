@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "readingEstimate": "About {minutes} minutes. Very doable.",
+  "tones": {
+    "chill": [
+      "Your saved read is still here, keeping your spot ☕",
+      "A tiny reading break? This link brought the vibes.",
+      "No rush. Just a friendly tap from your reading list.",
+      "This one looked worth saving. Still curious?",
+      "Your future self left you something to read.",
+      "One quiet article break, whenever you're ready.",
+      "This link has been patiently holding your seat.",
+      "A good read is waiting. Zero pressure. Almost zero."
+    ],
+    "pushy": [
+      "Plot twist: saved links do not read themselves.",
+      "You saved it with confidence. Time to follow through.",
+      "This tab has been emotionally available all day.",
+      "Your self-assigned reading deadline has entered the chat.",
+      "Inbox storage is not the same thing as learning. Open it.",
+      "Quick reality check: still reading this, or just collecting it?",
+      "The link is ready. The only missing ingredient is you.",
+      "Let's turn ‘read later’ into ‘read now-ish.’"
+    ],
+    "sharp": [
+      "What do you call someone who saves links but never reads them? A collector. Go read.",
+      "You thought saving it meant knowing it? You and knowledge are not that close.",
+      "Data mismatch: you said you would read it, but your history says otherwise.",
+      "\"{title}\" has been there for {days} days. It has waited longer than your last unanswered text.",
+      "Motivation decaying? Only {count} unread links. Keep going.",
+      "Not everyone can save this much and read this little. Impressive. 🏆"
+    ],
+    "fierce": [
+      "Read the link. Nobody is watching you save links for decoration.",
+      "{count} unread links. Are you building a library or a link graveyard?",
+      "If it flops, put the link's name on it. Better yet, read it first.",
+      "\"{title}\" has sat there for {days} days. It is about to claim residency.",
+      "Two hours of scrolling is fine, but five minutes of reading is impossible? Hello?",
+      "Absolute cinema: you save a link, forget it, and the link cries quietly.",
+      "Stop saying tomorrow. Tomorrow will look exactly like today."
+    ],
+    "savage": [
+      "Final reminder: read \"{title}\" or this app gets loud at bedtime. 😈",
+      "In my next life I will sweep temple leaves, because you owe {count} unread links in this one.",
+      "You created your own ordeal: {count} unread links. Ordeal number {count}, naturally.",
+      "This link has waited {days} days. Are you really going with 'I did not even touch it'?",
+      "You have 24 hours: read it or delete it. This link refuses to be the third wheel in your library.",
+      "Everyone, please proceed to... the reading page. Quickly. 🔥",
+      "If you will not read it, delete it and lighten the debt. Life is long; links are plentiful."
+    ]
+  }
+}
